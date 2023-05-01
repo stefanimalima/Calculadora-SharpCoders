@@ -1,4 +1,4 @@
-# Calculadora Simples 👩‍💻
+# Calculadora Funcional 👩‍💻
 
 ## Objetivo
 Desenvolver uma calculadora, utilizando HTML, CSS e JavaScript. 
